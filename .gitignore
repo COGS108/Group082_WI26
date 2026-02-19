@@ -187,4 +187,4 @@ data/*/*.MP*
 data/*.sq*
 data/*/*.sq*
 data/*.SQ*
-data/*/*.SQ*
+data/*/*.SQ*.virtual_documents/
